@@ -4,7 +4,7 @@ import style from './style.less';
 export default () => {
 	return (
 		<div class={style.home}>
-			<h1>Home</h1>
+			<h1>Portada</h1>
 			<p>This is the Home component.</p>
 		</div>
 	);
